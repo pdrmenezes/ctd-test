@@ -1,1 +1,0 @@
-console.log("Use mascara quando sair")
