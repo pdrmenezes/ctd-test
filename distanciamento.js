@@ -1,0 +1,1 @@
+console.log("Mantenha o distanciamento de 2m")
