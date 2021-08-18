@@ -1,1 +1,0 @@
-console.log("Se higienize com alcool gel")

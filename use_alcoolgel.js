@@ -1,0 +1,1 @@
+console.log("Se higienize com alcool gel sempre que tocar em locais públicos")
